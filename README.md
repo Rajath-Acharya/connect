@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Create T3 App
 
@@ -29,6 +28,3 @@ You can check out the [create-t3-app GitHub repository](https://github.com/t3-os
 
 # Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
 
-# connect
-
-> > > > > > > 5aba55b8414f8477538ab6060af2d86e5c31b5df
